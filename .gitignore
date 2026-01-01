@@ -2,3 +2,5 @@
 docs/
 __pycache__/
 *.pkl
+.venv/
+PROJECT_FULL_DOC.md
